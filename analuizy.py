@@ -1,5 +1,5 @@
-nota01 = 8.0
-nota02 = 7.0
-nota03 = 9.0
+nota01 = float(input("digite a nota 01:"))
+nota02 = float(input("digite a nota 02:"))
+nota03 = float(input("digite a nota 03:"))
 media = (nota01 + nota02 + nota03)/3 
 print ('sua média é😁:' , media)
